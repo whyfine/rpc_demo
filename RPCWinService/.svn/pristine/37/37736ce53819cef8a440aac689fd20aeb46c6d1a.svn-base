@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connectionStrings>
+  <add name="OrderContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_order;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="MemberContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_member;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="ArticleContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_article;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="InformationContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_address;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CollectContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_freight;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="AdminUserContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_adminuser;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="AreaContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_area;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CompaignContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_compaign;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CouponContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_coupon;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CommentContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_comment;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="SmsContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_sms;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="SysConfigContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_sysconfig;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="TripLineContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=youtrip;DATABASE=youtrip_line;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="BrandContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=1234;DATABASE=aplus_brand;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CategoryContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=1234;DATABASE=aplus_category;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="GoodContext" connectionString="SERVER=61.232.11.210;UID=admin;PWD=1234;DATABASE=aplus_goods;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+</connectionStrings>

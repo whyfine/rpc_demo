@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appSettings>
+  <!--hprose服务ip端口-->
+  <add key="ipPort" value="127.0.0.1:4321" />
+  <!--hprose允许请求的token，以|分割-->
+  <add key="allowSecretKeys" value="hylinkad" />
+  <!--Start service folder-->
+  <add key="startServicesFolder" value="ServiceCores\Recolte"/>
+</appSettings>

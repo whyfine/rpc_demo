@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connectionStrings>
+  <add name="OrderContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_order;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="MemberContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_member;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="ArticleContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_article;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="InformationContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_address;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CollectContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_freight;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="AdminUserContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_adminuser;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="AreaContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_area;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CompaignContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_compaign;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CouponContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_coupon;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CommentContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_comment;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="SmsContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_sms;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="SysConfigContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_sysconfig;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="TripLineContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_line;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="BrandContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_brand;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="CategoryContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_category;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+  <add name="GoodContext" connectionString="SERVER=54.222.145.87;UID=admin;PWD=youtrip;DATABASE=recolte_goods;PORT=3306;charset=utf8;Convert Zero Datetime=True;" providerName="MySql.Data.MySqlClient" />
+</connectionStrings>

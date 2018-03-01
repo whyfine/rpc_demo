@@ -1,0 +1,6 @@
+C:\Users\empty\Desktop\github\RPC\RPC.IServices\bin\Debug\RPC.IServices.dll
+C:\Users\empty\Desktop\github\RPC\RPC.IServices\bin\Debug\RPC.IServices.pdb
+C:\Users\empty\Desktop\github\RPC\RPC.IServices\bin\Debug\Hprose.dll
+C:\Users\empty\Desktop\github\RPC\RPC.IServices\obj\Debug\RPC.IServices.csprojResolveAssemblyReference.cache
+C:\Users\empty\Desktop\github\RPC\RPC.IServices\obj\Debug\RPC.IServices.dll
+C:\Users\empty\Desktop\github\RPC\RPC.IServices\obj\Debug\RPC.IServices.pdb

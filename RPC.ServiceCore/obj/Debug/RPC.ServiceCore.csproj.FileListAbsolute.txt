@@ -1,0 +1,12 @@
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\bin\Debug\RPC.ServiceCore.dll
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\bin\Debug\RPC.ServiceCore.pdb
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\bin\Debug\EFExt.dll
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\bin\Debug\EntityFramework.dll
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\bin\Debug\MySql.Data.dll
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\obj\Debug\RPC.ServiceCore.dll
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\obj\Debug\RPC.ServiceCore.pdb
+C:\Users\empty\Desktop\github\RPC\RPCWinService\bin\Debug\ServiceCores\Yi\RPC.ServiceCore.dll
+C:\Users\empty\Desktop\github\RPC\RPCWinService\bin\Debug\ServiceCores\Yi\RPC.ServiceCore.pdb
+C:\Users\empty\Desktop\github\RPC\RPC.ServiceCore\obj\Debug\RPC.ServiceCore.csprojResolveAssemblyReference.cache
